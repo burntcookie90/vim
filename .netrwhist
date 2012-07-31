@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/vishnu/.oh-my-zsh/themes'
+let g:netrw_dirhist_2='/home/vishnu/.oh-my-zsh/plugins'
+let g:netrw_dirhist_3='/home/vishnu/.oh-my-zsh/plugins/apache2-macports'
+let g:netrw_dirhist_4='/home/vishnu/.oh-my-zsh/themes'
+let g:netrw_dirhist_5='/home/vishnu/.oh-my-zsh/lib'
+let g:netrw_dirhist_6='/home/vishnu/.xmonad'
+let g:netrw_dirhist_7='/home/vishnu'
