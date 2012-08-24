@@ -8,4 +8,8 @@ let g:netrw_dirhist_5='/home/vishnu/.oh-my-zsh/lib'
 let g:netrw_dirhist_6='/home/vishnu/.xmonad'
 let g:netrw_dirhist_7='/home/vishnu'
 let g:netrw_dirhist_8='/home/vishnu/.vim/backup'
+<<<<<<< HEAD
 let g:netrw_dirhist_9='/home/vishnu/.vim'
+=======
+let g:netrw_dirhist_9='/home/vishnu/touchpad'
+>>>>>>> f1e1bd0661be4875aed381ae743742d06872a8fc

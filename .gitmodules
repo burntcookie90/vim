@@ -1,3 +1,12 @@
+<<<<<<< HEAD
 [submodule "bundle/dwm.vim"]
 	path = bundle/dwm.vim
 	url = git://github.com/spolu/dwm.vim.git
+=======
+[submodule "vim-latex"]
+	path = vim-latex
+	url = git://vim-latex.git.sourceforge.net/gitroot/vim-latex/vim-latex
+[submodule "bundle/vim-latex"]
+	path = bundle/vim-latex
+	url = git://vim-latex.git.sourceforge.net/gitroot/vim-latex/vim-latex
+>>>>>>> f1e1bd0661be4875aed381ae743742d06872a8fc
