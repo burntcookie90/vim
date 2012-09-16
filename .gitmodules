@@ -25,3 +25,9 @@
 [submodule "bundle/vlatex"]
 	path = bundle/vlatex
 	url = https://github.com/jcf/vim-latex.git
+[submodule "bundle/snipmate"]
+	path = bundle/snipmate
+	url = https://github.com/msanders/snipmate.vim.git
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = https://github.com/scrooloose/syntastic.git
